@@ -1,0 +1,4 @@
+#c5c1c0 gray
+#F7CE3E Yellow
+#14465d Denium
+#0A1612
